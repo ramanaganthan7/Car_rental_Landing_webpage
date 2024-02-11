@@ -4,12 +4,12 @@
 <ul>
   <li>
     <h2>On Desktop </h2>
-    <img src="preview2/pre1.png">
-    <img src="preview2/pre2.png">
-    <img src="preview2/pre3.png">
-    <img src="preview2/pre4.png">
-    <img src="preview2/pre5.png">
-    <img src="preview2/pre6.png">
+    <img src="Preview2/pre1.png">
+    <img src="Preview2/pre2.png">
+    <img src="Preview2/pre3.png">
+    <img src="Preview2/pre4.png">
+    <img src="Preview2/pre5.png">
+    <img src="Preview2/pre6.png">
  
   </li>
 
